@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidd8rth
 - 👀 I’m interested in working on open source, web development and cyber security
-- 🌱 I’m currently learning Linux and Python
+- 🌱 I’m currently learning Linux and Python specifically ML and want to move forward in Data Science
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me - mail me at sidd8rthp0rwal@gmail.com
 
